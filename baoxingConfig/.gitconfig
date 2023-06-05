@@ -1,0 +1,9 @@
+[user]
+	email = “tianyingkejishe@sina.cn”
+	name = “newu”
+[safe]
+	directory = /home/newu/workspace/flexbuild_lsdk2108
+	directory = /home/newu/workspace/flexbuild_lsdk2108/components/linux/linux
+	directory = /home/newu/software/amlogic-s9xxx-armbian
+[url "https://ghproxy.com/https://github.com/"]
+	insteadOf = https://github.com
